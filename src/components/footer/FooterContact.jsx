@@ -14,7 +14,7 @@ export default class FooterContact extends React.Component {
                     <p>000 (000) 123 4567</p>
                 </div>
                 <div>
-                    <p>pizza@pizzatime.com</p>
+                    <p>pizza@pizzaGhar .com</p>
                 </div>
                 <div>
                     <p>8:00am - 9:00pm</p>
